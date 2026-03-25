@@ -1,6 +1,6 @@
-### KNN
+### Top-K Nearest Neighbors Search System
 This project involves the development, implementation, testing, and optimisation of a software system supporting nearest-neighbour search functionality as described in the following publication:
-* Yiqi Wang, Long Yuan,  Wenjie Zhang, Xuemin Lin, Zi Chen, Qing Liu, "Simpler is More: Efficient Top-K Nearest Neighbors Search on Large Road Networks", which is submitted to VLDB2024.
+* Yiqi Wang, Long Yuan,  Wenjie Zhang, Xuemin Lin, Zi Chen, Qing Liu, "Simpler is More: Efficient Top-K Nearest Neighbors Search on Large Road Networks", which published in VLDB2024.
 
 ### Running Environment
 
