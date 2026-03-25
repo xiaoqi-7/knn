@@ -2,9 +2,11 @@
 This project involves the development, implementation, testing, and optimisation of a software system supporting nearest-neighbour search functionality as described in the following publication:
 * Yiqi Wang, Long Yuan,  Wenjie Zhang, Xuemin Lin, Zi Chen, Qing Liu, "Simpler is More: Efficient Top-K Nearest Neighbors Search on Large Road Networks", which published in VLDB2024.
 
-### Running Environment
+### Technical Environment and Implementation
 
-All experiments were conducted on a Linux machine with an Intel Xeon CPU and 384GB of memory, Debian GNU/Linux 12 and the g++ version is 12.2.0. We have implemented all methods using the C++11 standard and turned on the O3 optimization flag.
+The software system was developed and evaluated in a Linux-based technical environment using an Intel Xeon CPU, 384 GB of memory, Debian GNU/Linux 12, and g++ 12.2.0. The implementation was written in C++11 with compiler optimisation enabled through the -O3 flag.
+
+Development work included implementation of core software functions, testing and validation of system behaviour, performance optimisation, and technical evaluation under large-scale operating conditions, resulting in a functional software system that can be used by other technical users to perform nearest-neighbour search tasks on large road network datasets.
 
 ### Testing Dataset
 
